@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1 id="main" align='center'>Hello! I'm Rudransh Shrivastava</h1>
+
 <h2 id="social" align='center'>Let's Connect ! 🤝</h2>
 
 <p align='center'>
