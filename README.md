@@ -1,6 +1,6 @@
 <h2 id="main" align='center'>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-<p> I'm Rudransh Shrivastava, a first year Computer Science undergrad. </p>
-<h2 id="social" align='center'>Let's Connect ! 🤝</h2>
+<p align="center"> I'm Rudransh Shrivastava, a first year Computer Science undergrad. </p>
+<h2 id="social" align='center'>Connect with me on Social Media 🤝</h2>
 
 <p align='center'>
 <a href="https://twitter.com/rudranshstwt" target="_blank">
