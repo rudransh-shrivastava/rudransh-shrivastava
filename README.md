@@ -1,5 +1,5 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Rudransh Shrivastava, a first year Computer Science undergrad.
+I'm Rudransh Shrivastava, a second year Computer Science undergrad.
 
 ## Connect with me on Social Media 🤝
 [Twitter](https://twitter.com/rudranshstwt)
