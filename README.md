@@ -1,6 +1,5 @@
-Writing 0s and 1s
-
-I created an extension that brings back leetcode dislikes:
+Hi,
+Checkout this extension I created that brings back leetcode dislikes:
 - [Chrome](https://chromewebstore.google.com/detail/bring-back-leetcode-disli/ikokkjjkpgfkkkcjncfhmjpigelgdcja)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bring-back-leetcode-dislikes/)
 
