@@ -1,9 +1,4 @@
 Hi,
-Checkout this extension I created that brings back leetcode dislikes:
-- [Chrome](https://chromewebstore.google.com/detail/bring-back-leetcode-disli/ikokkjjkpgfkkkcjncfhmjpigelgdcja)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bring-back-leetcode-dislikes/)
-
-### Socials
 
 [Email](mailto:rudransh.shr@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/rudransh-shrivastava)
